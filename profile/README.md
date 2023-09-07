@@ -4,7 +4,7 @@
   <img src="https://github.com/Career-Navigator-Academy/Resources/raw/main/logo-variants/instagram-landscape.png" alt="Career Navigator Academy Logo" height="300">
 </p>
 
-Welcome to **Career Navigator Academy**, where we are dedicated to guiding and empowering individuals to _achieve their dream careers_. At Career Navigator Academy, we believe that with the right mentorship and practical experience, anyone can reach their full potential and embark on a successful career journey. Our unique approach focuses on **hands-on projects** and activities tailored to specific career tracks, ensuring that our participants are well-prepared to excel in their chosen fields.
+**Welcome to Career Navigator Academy**, where we are dedicated to guiding and empowering individuals to *achieve their dream careers*. At Career Navigator Academy, we believe that with the right mentorship and practical experience, anyone can reach their full potential and embark on a successful career journey. Our unique approach focuses on **hands-on projects** and activities tailored to specific career tracks, ensuring that our participants are well-prepared to excel in their chosen fields.
 
 ## Our Mission
 
@@ -34,6 +34,8 @@ Are you ready to embark on a journey towards your **_dream career_**? Career Nav
 
 Invest in your future today. Join **Career Navigator Academy** and unlock a world of opportunities. Your dream career awaits!
 
-<!--[Contact Us](mailto:info@careernavigatoracademy.com) | [Visit Our Website](https://www.careernavigatoracademy.com) | [Follow Us on Twitter](https://twitter.com/CareerNavAcademy) | [Like Us on Facebook](https://www.facebook.com/CareerNavigatorAcademy) -->
+---
+
+<!--[Contact Us](mailto:info@careernavigatoracademy.com) | [Visit Our Website](https://www.careernavigatoracademy.com) | [Follow Us on Twitter](https://twitter.com/CareerNavAcademy) | [Like Us on Facebook](https://www.facebook.com/CareerNavigatorAcademy)-->
 
 *Your Career Adventure Starts Here* 💼🚀
